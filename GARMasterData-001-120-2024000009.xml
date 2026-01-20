@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GARMasterData xmlns="urn:moda-ml:repository:schema:GARMasterData" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:moda-ml:repository:schema:GARMasterData http://vcese19.inesctec.pt:4432/xsd-schemas/ebiz-tc-upstream/stvgodigital-2022-1/GARMasterData.xsd" msgfunction="OR" version="2018-1">
+  <GMheader xmlns="">
+    <msgN>120-202400000921112024161456</msgN>
+    <msgID>120-2024000009</msgID>
+    <msgDate xmlns="" dateForm="D">2024-11-21</msgDate>
+    <senderParty xmlns="" sender="false">
+      <id xmlns="">PT999999999</id>
+      <legalName>Fashion Producer, SA</legalName>
+      <dept/>
+      <subDept/>
+      <person xmlns="" email="fp@company.pt" phone="+351 999999999">John</person>
+      <street/>
+      <city>Porto</city>
+      <subCountry/>
+      <country>PT</country>
+      <postCode/>
+    </senderParty>
+    <receiverParty xmlns="" sender="false">
+      <id xmlns="">PT999999999</id>
+      <legalName>Subcontractor, SA</legalName>
+      <dept/>
+      <subDept/>
+      <person xmlns="" email="sc@company.pt" phone="+351 999999999">Mary</person>
+      <street/>
+      <city>Guimaraes</city>
+      <subCountry/>
+      <country>PT</country>
+      <postCode/>
+    </receiverParty>
+  </GMheader>
+  <GMbody xmlns="">
+    <GMgroup xmlns="">
+      <GMitem xmlns="">
+        <lineN xmlns="">1</lineN>
+        <lineID>1</lineID>
+        <fashionProd xmlns="">
+          <garmentCode xmlns="" numberingOrg="CL">
+            <garmentCodeB xmlns="" numberingOrg="CL">
+              <mod xmlns="">9BTA102004512001</mod>
+              <color xmlns="">LL700</color>
+              <size xmlns="">XS</size>
+              <description xmlns="">Vestido com alças Ref.4095. Vestido comprido em poliamida com alças FEM</description>
+            </garmentCodeB>
+          </garmentCode>
+        </fashionProd>
+        <composition xmlns="">
+          <garmentCompos xmlns="">
+            <percCompos xmlns="" fibre="PA">94.0</percCompos>
+            <percCompos xmlns="" fibre="EA">6.0</percCompos>
+          </garmentCompos>
+        </composition>
+      </GMitem>
+      <GMitem xmlns="">
+        <lineN xmlns="">1</lineN>
+        <lineID>1</lineID>
+        <fashionProd xmlns="">
+          <garmentCode xmlns="" numberingOrg="CL">
+            <garmentCodeB xmlns="" numberingOrg="CL">
+              <mod xmlns="">9BTA102004512001</mod>
+              <color xmlns="">LL700</color>
+              <size xmlns="">S</size>
+              <description xmlns="">Vestido com alças Ref.4095. Vestido comprido em poliamida com alças FEM</description>
+            </garmentCodeB>
+          </garmentCode>
+        </fashionProd>
+        <composition xmlns="">
+          <garmentCompos xmlns="">
+            <percCompos xmlns="" fibre="PA">94.0</percCompos>
+            <percCompos xmlns="" fibre="EA">6.0</percCompos>
+          </garmentCompos>
+        </composition>
+      </GMitem>
+      <GMitem xmlns="">
+        <lineN xmlns="">1</lineN>
+        <lineID>1</lineID>
+        <fashionProd xmlns="">
+          <garmentCode xmlns="" numberingOrg="CL">
+            <garmentCodeB xmlns="" numberingOrg="CL">
+              <mod xmlns="">9BTA102004512001</mod>
+              <color xmlns="">LL700</color>
+              <size xmlns="">M</size>
+              <description xmlns="">Vestido com alças Ref.4095. Vestido comprido em poliamida com alças FEM</description>
+            </garmentCodeB>
+          </garmentCode>
+        </fashionProd>
+        <composition xmlns="">
+          <garmentCompos xmlns="">
+            <percCompos xmlns="" fibre="PA">94.0</percCompos>
+            <percCompos xmlns="" fibre="EA">6.0</percCompos>
+          </garmentCompos>
+        </composition>
+      </GMitem>
+      <GMitem xmlns="">
+        <lineN xmlns="">1</lineN>
+        <lineID>1</lineID>
+        <fashionProd xmlns="">
+          <garmentCode xmlns="" numberingOrg="CL">
+            <garmentCodeB xmlns="" numberingOrg="CL">
+              <mod xmlns="">9BTA102004512001</mod>
+              <color xmlns="">LL700</color>
+              <size xmlns="">L</size>
+              <description xmlns="">Vestido com alças Ref.4095. Vestido comprido em poliamida com alças FEM</description>
+            </garmentCodeB>
+          </garmentCode>
+        </fashionProd>
+        <composition xmlns="">
+          <garmentCompos xmlns="">
+            <percCompos xmlns="" fibre="PA">94.0</percCompos>
+            <percCompos xmlns="" fibre="EA">6.0</percCompos>
+          </garmentCompos>
+        </composition>
+        <unitOfMeasure xmlns="">PZ</unitOfMeasure>
+        <note xmlns="" numberingOrg="CL" codeList="" noteLabel="arttext">Um Vestido que é confeccionado com uma composição de 94% poliamida (PA) e 6% elastano (EL). Este tecido proporciona um caimento impecável, moldando-se ao corpo com suavidade, enquanto a adição de elastano garante flexibilidade e liberdade de movimentos.
+
+
+
+
+
+Com um design moderno, o vestido é perfeito para diversas ocasiões, desde um evento fo...</note>
+      </GMitem>
+    </GMgroup>
+  </GMbody>
+</GARMasterData>
